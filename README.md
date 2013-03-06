@@ -1,5 +1,7 @@
 ![Minimal HD iPhone 5](https://dl.dropbox.com/u/9977846/Minimal%20HD%20Screenshots/background.jpg)
 
+<script type="text/javascript" src="http://modmyi.com/cstats/index.php?package=com.modmyi.minimalhd&output=text"></script>
+
 ### Overview
 =====================================================================
 
