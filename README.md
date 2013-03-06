@@ -59,7 +59,7 @@ or/and
 
 
 ### Guidelines
----------------------------------------------------------------------
+=====================================================================
 
 In order to create a Minimal HD icon you will need Photoshop as well as the template
 [here](https://github.com/gruhu13/Minimal-HD/blob/master/Templates/IconTemplate.psd).
@@ -71,6 +71,6 @@ Please Watch the following Guidelines:
 
 
 ### Submitting a Bug
----------------------------------------------------------------------
+=====================================================================
 
 Sometimes app makers change the icon names that they use and doing so breaks Minimal HD. Sometimes Apple changes the names of images they use within iOS and doing so breaks Minimal HD. If you find a problem like this or anything else let us know what has changed there. If you cannot find an existing issue, please open one. It's really easy!
