@@ -7,7 +7,7 @@
 
 
 This is the official Site for creating, sharing and using the iPhone Winterboard Theme "Minimal HD".
-It now includes 160+ icons which have been graciously crafted by the community. In addition to that: 
+It now includes 170+ icons which have been graciously crafted by the community. In addition to that: 
 * lock screen skin
 * popup dialogs
 * SMS bubbles 
