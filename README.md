@@ -22,6 +22,30 @@ Our contributors are who makes Minimal HD on of the best theme for iPhone. Pleas
 
 Make sure to show your appreciation to everyone on this list!
 
+### Install 
+=====================================================================
+1.First Download the most updated version from [here](https://github.com/gruhu13/Minimal-HD/tarball/master)
+
+2. Make sure you have [ssh](http://cydia.saurik.com/openssh.html) set up or a way to access your Iphone/Ipod Touches your files like [iExplorer](http://www.macroplant.com/iexplorer/index-c.php?utm_expid=15979170-15&utm_referrer=https%3A%2F%2Fwww.google.com%2F) or [iFunBox](http://www.i-funbox.com/)
+
+3. Install winterboard (Found on cydia)
+
+5. Connect to your device by ssh or the programs mentioned before
+
+4. Go to this directory
+var/stash
+
+5. Unzip The file you downloaded earlier and open it
+
+6. Drag the contents from the folder into Themes.xxxx(xxx is device specific numbers)
+
+7. Open Winterboard (Found in Settings) select all Minimal HD options and drag to the top (Drag by holding 3 bars next to to its name till it pops up then slid all Minimal HD options Selected before to the top)
+
+8. Tap Back, then tap Respring
+
+9(Optional). If you have multiple themes or do not want all Minimal HD provides simply deselect What aspects of Minimal HD to take theme! (for ex. Minimal UI will untheme minimal HDs User Interface, Just make sure to Respring.)
+
+10.Enjoy! If you have any icon request please comment them [here](https://github.com/gruhu13/Minimal-HD/issues/1)
 
 ### How You Can Help Make Minimal HD More Awesome
 =====================================================================
