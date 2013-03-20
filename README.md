@@ -1,4 +1,3 @@
-
 ![Minimal HD Logo](https://dl.dropbox.com/u/9977846/Minimal%20HD%20Screenshots/Logo.png)
 
 ![Minimal HD iPhone 5](https://dl.dropbox.com/u/9977846/Minimal%20HD%20Screenshots/background.jpg)
@@ -43,7 +42,7 @@ var/stash
 6. Drag the contents from the folder into Themes.xxxx(xxx is device specific numbers)
 
 7. Open Winterboard (Found in Settings) select all Minimal HD options and drag to the top (Drag by holding 3 bars next to to its name till it pops up then slid all Minimal HD options Selected before to the top)
-
+   You can either choose the Original Icon Pack in combination with the Plus Icon Pack OR the Cube Icon Pack in combination with the Plus Icon Pack. Make sure that the pack you want (Original or Cube) to use is set on top of the list in Winterboard.
 8. Tap Back, then tap Respring
 
 9(Optional). If you have multiple themes or do not want all Minimal HD provides simply deselect What aspects of Minimal HD to take theme! (for ex. Minimal UI will untheme minimal HDs User Interface, Just make sure to Respring.)
