@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMBER Alert</key>
+	<string>ORANŽOVÁ výstraha</string>
+	<key>AMBER Alerts</key>
+	<string>ORANŽOVÉ výstrahy</string>
+	<key>Emergency Alert</key>
+	<string>Tísňová výstraha</string>
+	<key>Emergency Alerts</key>
+	<string>Tísňové výstrahy</string>
+	<key>Government Alerts</key>
+	<string>Vládní výstrahy</string>
+	<key>Presidential Alert</key>
+	<string>Prezidentská výstraha</string>
+	<key>Presidential Alerts</key>
+	<string>Prezidentské výstrahy</string>
+	<key>Quake Alert</key>
+	<string>Upozornění na zemětřesení</string>
+	<key>Quake Alerts</key>
+	<string>Upozornění na zemětřesení</string>
+	<key>Receiving Quake Alerts may incur data charges and affect your battery life.</key>
+	<string>Příjem upozornění na zemětřesení může způsobit změny v datech a snížit výdrž baterie.</string>
+	<key>Receiving emergency alerts may incur data charges and affect your battery life.</key>
+	<string>Příjem tísňových výstrah může způsobit změny v datech a snížit výdrž baterie.</string>
+</dict>
+</plist>

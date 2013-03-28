@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMBER Alert</key>
+	<string>NARANČASTI alarm</string>
+	<key>AMBER Alerts</key>
+	<string>NARANČASTI alarmi</string>
+	<key>Emergency Alert</key>
+	<string>Hitan alarm</string>
+	<key>Emergency Alerts</key>
+	<string>Hitni alarmi</string>
+	<key>Government Alerts</key>
+	<string>Vladini alarmi</string>
+	<key>Presidential Alert</key>
+	<string>Predsjednički alarm</string>
+	<key>Presidential Alerts</key>
+	<string>Predsjednički alarmi</string>
+	<key>Quake Alert</key>
+	<string>Alarm za potres</string>
+	<key>Quake Alerts</key>
+	<string>Alarmi za potrese</string>
+	<key>Receiving Quake Alerts may incur data charges and affect your battery life.</key>
+	<string>Primanje obavijesti o potresima može smanjiti trajanje baterije i za njih se može naplatiti podatkovna naknada.</string>
+	<key>Receiving emergency alerts may incur data charges and affect your battery life.</key>
+	<string>Primanje hitnih obavijesti može smanjiti trajanje baterije i za njih se može naplatiti podatkovna naknada.</string>
+</dict>
+</plist>

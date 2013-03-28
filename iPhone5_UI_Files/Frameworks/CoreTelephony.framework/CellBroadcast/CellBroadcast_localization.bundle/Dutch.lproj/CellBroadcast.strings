@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMBER Alert</key>
+	<string>AMBER Alert</string>
+	<key>AMBER Alerts</key>
+	<string>AMBER Alerts</string>
+	<key>Emergency Alert</key>
+	<string>Noodmelding</string>
+	<key>Emergency Alerts</key>
+	<string>Noodmeldingen</string>
+	<key>Government Alerts</key>
+	<string>Overheidsmeldingen</string>
+	<key>Presidential Alert</key>
+	<string>Presidentiële melding</string>
+	<key>Presidential Alerts</key>
+	<string>Presidentiële meldingen</string>
+	<key>Quake Alert</key>
+	<string>Aardbevingsmelding</string>
+	<key>Quake Alerts</key>
+	<string>Aardbevingsmeldingen</string>
+	<key>Receiving Quake Alerts may incur data charges and affect your battery life.</key>
+	<string>Aan aardbevingsmeldingen zijn mogelijk datakosten verbonden. Ook kan hierdoor de batterij sneller leegraken.</string>
+	<key>Receiving emergency alerts may incur data charges and affect your battery life.</key>
+	<string>Ontvangst van noodmeldingen kan extra datakosten met zich meebrengen en de batterijduur beïnvloeden.</string>
+</dict>
+</plist>

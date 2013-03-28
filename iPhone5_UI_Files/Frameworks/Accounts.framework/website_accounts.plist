@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>website_domains</key>
+	<dict>
+		<key>twitter.com</key>
+		<string>com.apple.twitter</string>
+		<key>weibo.com</key>
+		<string>com.apple.sinaweibo</string>
+		<key>facebook.com</key>
+		<string>com.apple.facebook</string>
+	</dict>
+</dict>
+</plist>

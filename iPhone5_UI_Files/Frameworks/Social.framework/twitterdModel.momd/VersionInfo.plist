@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>twitterdModel2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>twitterdModel</key>
+		<dict>
+			<key>Permission</key>
+			<data>
+			1ZHI5i4q16uIGcdfejpY3QOKL8sSyPRt50X/zl80V50=
+			</data>
+			<key>UserRecord</key>
+			<data>
+			IU1uZvA8quwcyH3O+t6K5mmqqDCP1dMaofcqYIDfQUM=
+			</data>
+		</dict>
+		<key>twitterdModel2</key>
+		<dict>
+			<key>UserRecord</key>
+			<data>
+			IU1uZvA8quwcyH3O+t6K5mmqqDCP1dMaofcqYIDfQUM=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

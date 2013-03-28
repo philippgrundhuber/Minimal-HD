@@ -1,0 +1,104 @@
+body{margin:0 10px 0 0;padding:0 0 0 10px;color:#573920;background-color:#f1eee5;font-family:'Baskerville';font-size:115%%;}
+a,a:hover{text-decoration:none !important;color:inherit !important;-webkit-tap-highlight-color:rgba(0,0,0,0);} /* These are not the links you're looking for. */
+table{table-layout:fixed;width:90%%;margin-top:1em;margin-left:14px;border-style:solid;border-width:1px;font-family:'HelveticaNeue';}
+caption{font-size:80%%;margin-bottom:0.5em;text-align:left;text-transform:uppercase;}
+tr{font-size:80%%;width:30%%;}
+td{}
+div[class="dic"]{}
+*.entry{display:block;margin:0em 0em 0em 0em;margin-bottom:1.0em;}
+d\:entry{display:block;margin:0em 0em 0em 0em;margin-bottom:1.0em;}
+/* span.hsb:before{content:'\2022';font-size:80%%;vertical-align:-9%%;} */
+span.SB{display:block;margin-left:1em;text-indent:-1em;}
+span.encBlock,span.phrBlock,span.pvBlock,span.drvBlock,span.etymBlock,span.usage{display:block;margin-top:1em;text-indent:0px;}
+span.SB+span.SB{margin-top:1em;}
+span.encBlock{padding:0.33em;margin-right:1em;}
+span.encBlock>span.lbl,span.phrBlock>span.lbl,span.pvBlock>span.lbl,span.drvBlock>span.lbl,span.etymBlock>span.lbl,span.usage>span.lbl{font-size:90%%;}
+span.SB span.phrBlock{display:inline;}
+span.SB > span.sense{display:block;}
+span.sense > span.sn{font-weight:600;}
+span.subEnt{display:block;}
+span.sUse,span.specUse{display:block;text-indent:0;}
+span.hw,span.ehw,span.vhw{font-size:150%%;}
+span.fhw{font-weight:600;font-style:italic;}
+span.hm{vertical-align:super}
+span.x + span.hm{font-size:50%%;}
+span.pr{font-family:'HiraMinPro-W3';}
+span.varGrp,span.vGrp{font-weight:normal;}
+span.v{font-weight:600;}
+span.v[highlight="true"]{font-weight:600;font-style:italic;}
+span.v[highlight="false"]{font-weight:600;}
+span.InfGrp,span.iGrp{font-weight:normal;}
+span.inf{font-weight:600;}
+span.formGrp,span.fGrp{font-weight:normal;}
+span.f,span.form{font-weight:600;}
+span.gramGrp,span.gGrp{font-weight:normal;}
+span.cs{font-variant:small-caps;font-size:120%%;}
+span.antBlock>span.lbl{font-variant:small-caps;font-size:110%%;}
+span.provLabel,span.regLabel,span.subjLabel{font-family:'HelveticaNeue-Light';font-size:80%%;}
+span.SB span.ps{font-weight:normal;}
+span.subEnt span.ps{font-weight:normal;}
+span.syntax,span.syn{font-weight:normal;}
+span.l{font-weight:600;}
+span.SB span.MS{display:block;}
+span.MS > span.lbl{font-family:'LucidaGrande';font-size:80%%;}
+span.def{font-weight:normal;}
+span.Name{font-style:italic;}
+span.altName{font-weight:bold}
+span.cite[highlight="true"]{font-style:italic;}
+span.cite[highlight="false"]{font-weight:normal;}
+span.com{font-weight:normal;}
+span.date{font-weight:normal;}
+span.date + span.italic{font-style:italic;}
+span.lang{font-weight:normal;}
+span.etym{font-weight:normal;}
+span.etym:> span.lbl{font-variant:small-caps;}
+span.ex{font-style:italic;}
+span.ex > span.bold{font-weight:600;font-style:italic;}
+span.ex > span.lbl{font-weight:normal;}
+span.ff{font-weight:600;font-style:italic;}
+span.trans{font-weight:600;font-style:italic;}
+span.finf{font-weight:600;font-style:italic;}
+span.fl{font-weight:600;}
+span.lp[highlight="true"]{font-weight:600;}
+span.lp[highlight="false"]{font-style:normal;}
+span.hwtrans{font-weight:normal;}
+span.xu{font-weight:600;}
+span.x{font-weight:600;font-variant:small-caps;}
+span.techGrp>span.lbl,span.techMS>span.lbl{font-family:'LucidaGrande';font-size:80%%;}
+span.txn[highlight="true"]{font-style:italic;}
+span.txn[highlight="false"]{font-weight:normal;}
+span.txnBin{font-style:italic;}
+span.txnFam{font-weight:normal;}
+span.txnGenus{font-weight:normal;}
+span.meta{display:none;}
+span.note{background-color:#f1eee5 ! important;}
+span.render{font-style:italic;}
+span.render[as="sans-serif"]{font-family:'HelveticaNeue';}
+span.render[as="bold"]{font-weight:600;}
+span.render[as="italic"]{font-style:italic;}
+span.bold{font-weight:600;}
+span.italic{font-style:italic;}
+span.underline{text-decoration:underline}
+span.bi{font-weight:600;font-style:italic;}
+span.r{font-weight:normal;}
+span.sc{font-variant:small-caps}
+span.in{vertical-align:sub;font-size:70%%;}
+span.ini{vertical-align:sub;font-size:70%%;font-style:italic;}
+span.su{vertical-align:super;font-size:70%%;}
+span.sui{vertical-align:super;font-size:70%%;font-style:italic;}
+span.nu{vertical-align:super;font-size:70%%;}
+span.dn{vertical-align:sub;font-size:70%%;}
+span.specialFeature{display:block;margin-left:1em;margin-top:1em;color:#404040;}
+span.oup_head{font-weight:600;font-size:130%%;margin-left:0.5em;}
+span.oup_body{display:block;padding:0.25em 0 0.5em 0;margin-top:0.25em;}
+span.paragraph{display:block;text-indent:1em;margin-top:0.25em;}
+span.specialFeature > span.lbl{font-family:'HelveticaNeue-Bold';font-size:80%%;}
+span.specialFeature[type="awkward_synonyms"] span.oup_head{display:none;}
+*{-webkit-user-select:none;-webkit-touch-callout:none;}
+div[class='lineart']{display:none;}
+img{display:none;}
+.hidden{display:none;}
+audio{display:none;}
+video{display:none;}
+span[class="sound"],.sound{display:none;}
+span[class="image"],.image{display:none;}

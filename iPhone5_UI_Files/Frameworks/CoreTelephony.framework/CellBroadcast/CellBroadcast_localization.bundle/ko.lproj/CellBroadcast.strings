@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMBER Alert</key>
+	<string>황색 경고</string>
+	<key>AMBER Alerts</key>
+	<string>황색 경고</string>
+	<key>Emergency Alert</key>
+	<string>긴급 경고</string>
+	<key>Emergency Alerts</key>
+	<string>긴급 경고</string>
+	<key>Government Alerts</key>
+	<string>정부 경고</string>
+	<key>Presidential Alert</key>
+	<string>대통령령 경보</string>
+	<key>Presidential Alerts</key>
+	<string>대통령령 경보</string>
+	<key>Quake Alert</key>
+	<string>지진 경고</string>
+	<key>Quake Alerts</key>
+	<string>지진 경고</string>
+	<key>Receiving Quake Alerts may incur data charges and affect your battery life.</key>
+	<string>지진 경고를 받으면 데이터 사용 요금이 부과되고 배터리 사용 시간이 줄어들 수 있습니다</string>
+	<key>Receiving emergency alerts may incur data charges and affect your battery life.</key>
+	<string>긴급 경고를 받으면 데이터 사용 요금이 부과되고 배터리 사용 시간이 줄어들 수 있습니다.</string>
+</dict>
+</plist>

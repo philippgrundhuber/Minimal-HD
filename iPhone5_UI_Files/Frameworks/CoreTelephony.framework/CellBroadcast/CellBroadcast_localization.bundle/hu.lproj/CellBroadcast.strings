@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMBER Alert</key>
+	<string>AMBER-jelzés</string>
+	<key>AMBER Alerts</key>
+	<string>AMBER-jelzések</string>
+	<key>Emergency Alert</key>
+	<string>Vészjelzés</string>
+	<key>Emergency Alerts</key>
+	<string>Vészjelzések</string>
+	<key>Government Alerts</key>
+	<string>Kormányzati jelzések</string>
+	<key>Presidential Alert</key>
+	<string>Elnöki jelzés</string>
+	<key>Presidential Alerts</key>
+	<string>Elnöki jelzések</string>
+	<key>Quake Alert</key>
+	<string>Földrengés-előrejelzés</string>
+	<key>Quake Alerts</key>
+	<string>Földrengés-előrejelzések</string>
+	<key>Receiving Quake Alerts may incur data charges and affect your battery life.</key>
+	<string>A földrengés-előrejelzések adatátviteli díjjal és csökkent akkumulátor-élettartammal járhatnak.</string>
+	<key>Receiving emergency alerts may incur data charges and affect your battery life.</key>
+	<string>A vészjelzések adatátviteli díjjal és csökkent akkumulátor-élettartammal járhatnak.</string>
+</dict>
+</plist>

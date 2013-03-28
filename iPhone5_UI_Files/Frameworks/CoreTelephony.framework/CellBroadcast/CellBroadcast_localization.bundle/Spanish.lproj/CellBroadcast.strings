@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMBER Alert</key>
+	<string>Alerta AMBER</string>
+	<key>AMBER Alerts</key>
+	<string>Alertas AMBER</string>
+	<key>Emergency Alert</key>
+	<string>Alerta de emergencia</string>
+	<key>Emergency Alerts</key>
+	<string>Alertas de emergencia</string>
+	<key>Government Alerts</key>
+	<string>Alertas gubernamentales</string>
+	<key>Presidential Alert</key>
+	<string>Alerta presidencial</string>
+	<key>Presidential Alerts</key>
+	<string>Alertas presidenciales</string>
+	<key>Quake Alert</key>
+	<string>Alerta de terremoto</string>
+	<key>Quake Alerts</key>
+	<string>Alertas de terremoto</string>
+	<key>Receiving Quake Alerts may incur data charges and affect your battery life.</key>
+	<string>La recepción de alertas de terremotos puede ser de pago y puede afectar a la duración de la batería.</string>
+	<key>Receiving emergency alerts may incur data charges and affect your battery life.</key>
+	<string>La recepción de alertas de emergencia puede ser de pago y puede afectar a la duración de la batería.</string>
+</dict>
+</plist>

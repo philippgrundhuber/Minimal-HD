@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMBER Alert</key>
+	<string>Cảnh báo MÀU VÀNG</string>
+	<key>AMBER Alerts</key>
+	<string>Cảnh báo MÀU VÀNG</string>
+	<key>Emergency Alert</key>
+	<string>Cảnh báo Khẩn cấp</string>
+	<key>Emergency Alerts</key>
+	<string>Cảnh báo Khẩn cấp</string>
+	<key>Government Alerts</key>
+	<string>Cảnh báo của Chính phủ</string>
+	<key>Presidential Alert</key>
+	<string>Cảnh báo của Tổng thống</string>
+	<key>Presidential Alerts</key>
+	<string>Cảnh báo của Tổng thống</string>
+	<key>Quake Alert</key>
+	<string>Cảnh báo Động đất</string>
+	<key>Quake Alerts</key>
+	<string>Cảnh báo Động đất</string>
+	<key>Receiving Quake Alerts may incur data charges and affect your battery life.</key>
+	<string>Việc nhận Cảnh báo Quake có thể làm phát sinh phí truyền dữ liệu và ảnh hưởng đến tuổi thọ pin của bạn.</string>
+	<key>Receiving emergency alerts may incur data charges and affect your battery life.</key>
+	<string>Việc nhận cảnh báo khẩn cấp có thể làm phát sinh phí truyền dữ liệu và ảnh hưởng đến tuổi thọ pin.</string>
+</dict>
+</plist>
