@@ -56,7 +56,7 @@ Whether it's requests, contributions or bugs, thanks to everyone who helps make 
   * Submitting an Icon Request
   * Contributing an Icon
   * Submit a Bug
-  * JOIN THE TEAM Just write an email to philippgrundhuber@gmail.com and you will get acces to the Github!
+  * JOIN THE TEAM Just write an email to minimalhdteam@gmail.com and you will get acces to the Github!
 
 ### Icon Requests
 =====================================================================
@@ -72,13 +72,13 @@ or
   * _Revert Optimized Icons ON_
   * _Collect Artwork Images OFF_
 
-Then Press "Start!" and when its done email (philippgrundhuber@gmail.com) me your package. Please add all Application Names you would like to get themed.
+Then Press "Start!" and when its done email (minimalhdteam@gmail.com) me your package. Please add all Application Names you would like to get themed.
 
 ### Icon Contributions
 =====================================================================
 
 Minimal HD is a community effort, we can only continue being this successful with your help!
-* Email us your icon set (only in bundle Folders please): philippgrundhuber@gmail.com
+* Email us your icon set (only in bundle Folders please): minimalhdteam@gmail.com
 
 or/and
 
