@@ -17,6 +17,7 @@ It now includes 170+ icons which have been graciously crafted by the community. 
 * Two iPod Themes
 * Auxo theme
 * a lot of separate options for additional customization.
+
 Either download from Cydia (search for 'Minimal HD'), or [click
 here](https://github.com/gruhu13/Minimal-HD/tarball/master).
 
