@@ -16,6 +16,7 @@ It now includes 170+ icons which have been graciously crafted by the community. 
 * Phone UI
 * Two iPod Themes
 * Auxo theme
+* Weather Theme
 * a lot of separate options for additional customization.
 
 Either download from Cydia (search for 'Minimal HD'), or [click
